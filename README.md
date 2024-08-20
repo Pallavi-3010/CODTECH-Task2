@@ -9,6 +9,8 @@
 
 ### Project : Interactive Quiz application
 
+![Screenshot (6)](https://github.com/user-attachments/assets/cab105c8-329e-49eb-9c44-f83e5ac5c0d4)
+
 ### Objective
 The objective of making a quiz apllication using HTML, CSS, and JavaScript is to improve our technical skills, knowledge, and work in a curated online space.
 
